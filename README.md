@@ -2,6 +2,8 @@
 
 This script generates a smooth panning video across a series of product images, ideal for showcasing product lineups or creating engaging content for marketing.
 
+[ReadmeExample.webm](https://github.com/StevenPartridge/pan-over-images/assets/22158507/72a88fdc-bb7b-43a3-b56f-608d4a63c06d)
+
 ## Requirements
 
 Ensure that `ImageMagick`, `GNU Parallel`, and `FFmpeg` are installed on your system. These tools are necessary for image manipulation, parallel processing (wowwee so fast!), and video generation.
