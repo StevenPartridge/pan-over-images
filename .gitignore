@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+panning_video.mp4
+parallel.log
