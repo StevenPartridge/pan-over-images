@@ -2,7 +2,8 @@
 
 This script generates a smooth panning video across a series of product images, ideal for showcasing product lineups or creating engaging content for marketing.
 
-[ReadmeExample.webm](https://github.com/StevenPartridge/pan-over-images/assets/22158507/72a88fdc-bb7b-43a3-b56f-608d4a63c06d)
+[Example Output](https://github.com/StevenPartridge/pan-over-images/assets/22158507/25ec8e96-7581-42cd-9b7b-8ca8b269975b)
+
 
 ## Requirements
 
